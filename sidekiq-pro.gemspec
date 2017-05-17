@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["jorge.dimitri@gmail.com"]
 
   spec.summary       = %q{This is not the official sidekiq-pro gem}
-  spec.description   = %q{You probably want to fetch the real one from https://gems.contribsys.com}
+  spec.description   = %q{You should really pay attention to what you install... And you probably want to fetch the real sidekiq-pro gem from https://gems.contribsys.com}
   spec.homepage      = "https://github.com/jorge-d/sidekiq-pro-fake"
   spec.license       = "MIT"
 
