@@ -23,6 +23,8 @@ Gem::Specification.new do |spec|
       "public gem pushes."
   end
 
+  spec.post_install_message = "/!\\ ಠ‿ಠ Watch out ! This is not the real sidekiq-pro gem. /!\\"
+
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
   end
